@@ -33,7 +33,7 @@
 - [Запотели ДХО](#у-меня-запотели-дхо-что-делать)
 
 # Прочее
-- Клубы владельцев
+- [Клубы владельцев](#клубы-владельцев)
 
 ## Комплект запчастей для ТО
 
@@ -172,6 +172,18 @@
 - В блоге пользователя QshtriH на [Drive2](https://www.drive2.ru/l/666462652058325940/).
 - На канале пользователя 
 2nextreviews на [YouTube](https://www.youtube.com/watch?v=D_IfB59VkUI) или [RuTube](https://rutube.ru/video/dca548b30b1f49cb0ae73680a55eb2b2/).
+
+## Клубы владельцев
+
+Telegram:
+- [Первый](https://t.me/m_3_tech)
+- [Второй](https://t.me/moskvich_3)
+- [Третий](https://t.me/moskvich_3_6)
+
+VK:
+- [Первый](https://vk.com/kultink)
+- [Второй](https://vk.com/moskvich_3)
+- [Третий](https://vk.com/moskvich3klub)
 
 ---
 
