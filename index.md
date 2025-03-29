@@ -210,9 +210,8 @@ Telegram:
 - [Третий](https://t.me/moskvich_3_6)
 
 VK:
-- [Первый](https://vk.com/kultink)
-- [Второй](https://vk.com/moskvich_3)
-- [Третий](https://vk.com/moskvich3klub)
+- [Первый](https://vk.com/moskvich_3)
+- [Второй](https://vk.com/moskvich3klub)
 
 ---
 
